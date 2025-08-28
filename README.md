@@ -28,12 +28,8 @@ Sou desenvolvedor **Python** e **JavaScript**, criando soluções modernas, func
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)  
 
 ---
-
-## 📫 Como me encontrar
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/SeuPerfilAqui)  
-[![Gmail](https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail)](mailto:seuemail@gmail.com)  
-
+Estudando Engenharia de Software
+Studying Software Engineering
 ---
 ⭐ **Sempre evoluindo como dev — transformando ideias em código que faz a diferença!**
 
