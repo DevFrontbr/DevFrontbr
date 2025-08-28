@@ -28,7 +28,7 @@ Sou desenvolvedor **Python** e **JavaScript**, criando soluções modernas, func
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)  
 
 ---
-Estudando Engenharia de Software
+Estudando Engenharia de Software,
 Studying Software Engineering
 ---
 ⭐ **Sempre evoluindo como dev — transformando ideias em código que faz a diferença!**
