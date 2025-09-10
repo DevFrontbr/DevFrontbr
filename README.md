@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou [Gustavo]  
 
-Sou desenvolvedor **Python** e **JavaScript**, criando soluções modernas, funcionais e escaláveis. Atualmente, estudo **Engenharia de Software** para levar cada projeto a um novo nível.  
+Sou desenvolvedor **Python** , **JavaScript** e **C# (C Sharp)**, criando soluções modernas, funcionais e escaláveis. Atualmente, estudo **Engenharia de Software** para levar cada projeto a um novo nível.  
 
 - 🚀 **Stack principal:** Python, JavaScript  e (Front-end)
 - 🌐 Desenvolvo **sites** e **aplicações web**
@@ -26,6 +26,8 @@ Sou desenvolvedor **Python** e **JavaScript**, criando soluções modernas, func
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)  
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)  
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp&logoColor=239120)
+
 
 ---
 Estudando Engenharia de Software,
