@@ -2,7 +2,7 @@
 
 Sou desenvolvedor **Python** , **JavaScript** e **C# (C Sharp)**, criando soluções modernas, funcionais e escaláveis. Atualmente, estudo **Engenharia de Software** para levar cada projeto a um novo nível.  
 
-- 🚀 **Stack principal:** Python, JavaScript  e (Front-end)
+- 🚀 **Stack principal:** Python, JavaScript e C-Sharp
 - 🌐 Desenvolvo **sites** e **aplicações web**
 - 📚 Sempre aprendendo novas tecnologias e boas práticas
 - 🎯 Foco em escrever código limpo, organizado e eficiente  
