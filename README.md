@@ -1,39 +1,22 @@
-# 👋 Olá, eu sou [Gustavo]  
 
-Sou desenvolvedor **Python** , **JavaScript** e **C# (C Sharp)**, criando soluções modernas, funcionais e escaláveis. Atualmente, estudo **Engenharia de Software** para levar cada projeto a um novo nível.  
+I'm a **Java Developer**, focused on building modern, functional, and efficient solutions. I'm currently pursuing a degree in **Software Engineering**, continuously improving my skills and expanding my knowledge in software development.
 
-- 🚀 **Stack principal:** Python, JavaScript e C-Sharp
-- 🌐 Desenvolvo **sites** e **aplicações web**
-- 📚 Sempre aprendendo novas tecnologias e boas práticas
-- 🎯 Foco em escrever código limpo, organizado e eficiente  
-
----
-
-## 🌟 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DevFrontbr&show_icons=true&theme=dark)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DevFrontbr&layout=compact&theme=dark)  
-![Streak](https://streak-stats.demolab.com/?user=DevFrontbr&theme=dark)
+- ☕ **Main language:** Java
+- 💻 Developing applications and software solutions with Java
+- 📚 Studying **Software Engineering**
+- 🚀 Always learning new technologies and best practices
+- 🎯 Focused on writing clean, organized, and efficient code
 
 
 ---
 
-## 🔧 Tecnologias & Ferramentas
+## 🔧 Technologies & Tools
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)  
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)  
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)  
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=ED8B00)  
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)  
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp&logoColor=239120)
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
----
-Estudando Engenharia de Software,
-Studying Software Engineering
----
-⭐ **Sempre evoluindo como dev — transformando ideias em código que faz a diferença!**
 
 
 <!--
